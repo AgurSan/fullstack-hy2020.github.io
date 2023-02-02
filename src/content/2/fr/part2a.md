@@ -13,7 +13,7 @@ Avant de commencer une nouvelle partie, récapitulons quelques-uns des sujets qu
 
 ***Quelle est la différence entre un programmeur JavaScript expérimenté et un débutant ? L'expérimenté utilise console.log 10 à 100 fois plus.***
 
-Paradoxalement, cela semble être vrai même si un programmeur débutant aurait besoin de <i>console.log</i> (ou de toute méthode de débogage) plus qu'un programmeur expérimenté.
+Paradoxalement, cela semble être vrai même si un programmeur débutant avait besoin de <i>console.log</i> (ou de toute méthode de débogage) plus qu'un programmeur expérimenté.
 
 Lorsque quelque chose ne fonctionne pas, ne vous contentez pas de deviner ce qui ne va pas. Au lieu de cela, logger ou utilisez un autre moyen de débogage.
 
